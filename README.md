@@ -1,5 +1,5 @@
-# Opensource
-This project helps development team to know the contribution in opensource. 
+# Opensource commits
+This project helps development team to know the contribution of commits in opensource. 
 
 PROJECT OPEN SOURCE
 
@@ -44,3 +44,6 @@ Approach Followed
 7. The file path from Excel as a source is connected to the Power BI.
 9. Necessary cleaning of the file is done in Power Query in Power BI.
 10. Created visualizations which help to get insights required from the management.
+
+<img width="548" alt="approach" src="https://github.com/PriyaDambal/Opensource/assets/134541646/51a9bdeb-10de-4870-92da-6879cb27902c">
+
